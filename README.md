@@ -1,6 +1,7 @@
 ### Hi there 👋
 <!-- ![herobrine19's github stats](https://github-readme-stats.vercel.app/api?username=herobrine19&theme=tokyonight&show_icons=true) -->
-![herobrine19's GitHub stats](https://github-readme-stats.vercel.app/api?username=herobrine19)
+![herobrine19's GitHub stats](https://github-readme-stats.vercel.app/api?username=herobrine19&show_icons=true&theme=tokyonight)
+
 <!--
 **herobrine19/herobrine19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
